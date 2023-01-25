@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ambretta",
+    "surname": "Pinto",
+    "age": 22,
+    "skills": [
+      { "name": "HTML", "rating": 8 },
+      { "name": "CSS", "rating": 7.5 },
+      { "name": "JAVASCRIPT", "rating": 9 },
+      { "name": "REACT", "rating": "SV" }
+    ],
+    "Paese": "Italia"
+  },
+  {
+    "name": "Eligio",
+    "surname": "Lombardo",
+    "age": 30,
+    "skills": [
+      { "name": "HTML", "rating": 6 },
+      { "name": "CSS", "rating": 9 },
+      { "name": "JAVASCRIPT", "rating": 5 },
+      { "name": "REACT", "rating": "7" }
+    ],
+    "Paese": "Italia"
+  },
+  {
+    "name": "Oronzo",
+    "surname": "Manfrin",
+    "age": 25,
+    "skills": [
+      { "name": "HTML", "rating": 7 },
+      { "name": "CSS", "rating": 7 },
+      { "name": "JAVASCRIPT", "rating": 6 },
+      { "name": "REACT", "rating": "8" }
+    ],
+    "Paese": "Italia"
+  },
+  {
+    "name": "Patricia",
+    "surname": "Parker",
+    "age": 20,
+    "skills": [
+      { "name": "HTML", "rating": 8 },
+      { "name": "CSS", "rating": 9 },
+      { "name": "JAVASCRIPT", "rating": 8 },
+      { "name": "REACT", "rating": "7" }
+    ],
+    "Paese": "America"
+  },
+  {
+    "name": "Zhi",
+    "surname": "Lai",
+    "age": 30,
+    "skills": [
+      { "name": "HTML", "rating": 7 },
+      { "name": "CSS", "rating": 6 },
+      { "name": "JAVASCRIPT", "rating": 7 },
+      { "name": "REACT", "rating": "7" }
+    ],
+    "Paese": "Cina"
+  },
+  {
+    "name": "Dora",
+    "surname": "Hornblower",
+    "age": 31,
+    "skills": [
+      { "name": "HTML", "rating": 8 },
+      { "name": "CSS", "rating": 10 },
+      { "name": "JAVASCRIPT", "rating": 5 },
+      { "name": "REACT", "rating": "8" }
+    ],
+    "Paese": "Inghilterra"
+  }
+]

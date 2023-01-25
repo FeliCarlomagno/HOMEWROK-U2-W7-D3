@@ -1,0 +1,34 @@
+[
+  {
+    "nome": "Rocky",
+    "ingua originale": "Inglese",
+    "anno": 1976,
+    "paese di produzione": "Stati Uniti d'America",
+    "genere": ["Drammatico", "Sportivo", "Sentimentale"],
+    "regia": "John G. Avildsen"
+  },
+  {
+    "nome": "Interstellar",
+    "ingua originale": "Inglese",
+    "anno": 2014,
+    "paese di produzione": "Stati Uniti d'America",
+    "genere": ["Drammatico", "Fantascienza", "Drammatico"],
+    "regia": "Christopher Nolan"
+  },
+  {
+    "nome": "The Menù",
+    "ingua originale": "Inglese",
+    "anno": 2022,
+    "paese di produzione": "Stati Uniti d'America",
+    "genere": ["thriller", "orrore", "satirico"],
+    "regia": "Mark Mylod"
+  },
+  {
+    "nome": "Le ali della libertà",
+    "ingua originale": "Inglese",
+    "anno": 1994,
+    "paese di produzione": "Stati Uniti d'America",
+    "genere": "Drammatico",
+    "regia": "Frank Darabont"
+  }
+]
